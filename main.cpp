@@ -1,13 +1,3 @@
-// Developer Name: Atul Mohan Jadhav
-
-// Roll No: 64
-
-// Problem Statement:
-
-// Version:V2.0
-
-// Batch: S3
-
 
 
 #include<iostream>
